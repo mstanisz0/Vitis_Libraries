@@ -65,10 +65,9 @@
 // bayer pattern
 
 #define T_8U 0
-#define T_10U 0
+#define T_10U 1
 #define T_12U 0
-#define T_16U 1
-
+#define T_16U 0
 #define XF_CCM_TYPE XF_CCM_bt2020_bt709
 
 #define XF_LTM_T XF_8UC3
